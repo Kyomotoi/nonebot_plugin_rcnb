@@ -1,14 +1,4 @@
-<p align="center">
-  <a href="https://v2.nonebot.dev/"><img src="https://raw.githubusercontent.com/nonebot/nonebot2/master/docs/.vuepress/public/logo.png" width="200" height="200" alt="nonebot"></a>
-</p>
-
-<div align="center">
-
-# nonebot-plugin-rcnb
-
-_✨ NoneBot RCNB 插件 ✨_
-
-</div>
+# nonebot_plguin_rcnb | 一键RC
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Kyomotoi/nonebot_plugin_rcnb/main/LICENSE">
