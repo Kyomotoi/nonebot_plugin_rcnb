@@ -1,11 +1,9 @@
 # nonebot_plguin_rcnb | 一键RC
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Kyomotoi/nonebot_plugin_rcnb/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Kyomotoi/nonebot_plugin_rcnb" alt="license">
-  </a>
-  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
-</p>
+<a href="https://raw.githubusercontent.com/Kyomotoi/nonebot_plugin_rcnb/main/LICENSE">
+  <img src="https://img.shields.io/github/license/Kyomotoi/nonebot_plugin_rcnb" alt="license">
+</a>
+<img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="python">
 
 ## 使用方式
 
